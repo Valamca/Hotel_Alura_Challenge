@@ -40,6 +40,9 @@ El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocion
 - setResizable(false): determina el tamaño de la ventana, y a través del parámetro <strong>false</strong>, la pantalla no se puede maximizar;
 - setLocationRelativeTo(null): determina la ubicación de la ventana, y a través del parámetro <strong>null</strong> la mantiene centrada en la pantalla.
 
+## Diagrama de base de datos <br>
+![Diagrama Base de Datos](https://github.com/Valamca/Hotel_Alura_Challenge/assets/129345721/cbc4dfe2-5efa-4635-b601-678c3013073a)
+
 ---
 # Menú Principal <br>
 Aquí podemos acceder a la ventana de inicio de sesión.
