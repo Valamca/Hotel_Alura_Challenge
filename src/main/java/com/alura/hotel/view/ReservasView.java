@@ -330,7 +330,7 @@ public class ReservasView extends JFrame {
 
 					double value = Double.valueOf(valor);
 					id = reservationControl.saveReservation(dateInF, dateOutF, value, txtFormaPago.getSelectedItem().toString());
-					JOptionPane.showMessageDialog(new JFrame(),"Reserva no." +id +" guardada exitosamente");
+					JOptionPane.showMessageDialog(new JFrame(),"Reserva con codigo #" +id +" guardada exitosamente");
 					
 					RegistroHuesped registro = new RegistroHuesped(id);
 					registro.setVisible(true);
